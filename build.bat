@@ -1,0 +1,1 @@
+pyinstaller -F --version-file .\file_version_info.txt -w -i ./icon.ico -n 热度图生成器 main.py
